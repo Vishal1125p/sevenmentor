@@ -1,1 +1,1 @@
-# sevenmentor
+# gym-management
